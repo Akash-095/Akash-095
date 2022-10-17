@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [//]: #
-[Linkedin] : <https://www.linkedin.com/in/akashverma095>
+
+[Linkedin]: <https://www.linkedin.com/in/akashverma095>
 [Twitter]: <https://twitter.com/Nerdon36/>
