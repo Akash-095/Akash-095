@@ -1,8 +1,8 @@
 ### Hi there 👋, It's @Akash-095
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me [Linkedin] [Twitter] Discord: Akash..#0258
 - 💞️ I’m always Happy to collaborate
 - 🔭 I’m currently working on MERN Projects
+- 📫 How to reach me [Linkedin] [Twitter] Discord: Akash..#0258
 
 
 [![@akash095's Holopin board](https://holopin.me/akash095)](https://holopin.io/@akash095)
