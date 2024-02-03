@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 [Linkedin]: <https://www.linkedin.com/in/akashverma095>
 [Twitter]: <https://twitter.com/Nerdon36/>
+
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-095&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
